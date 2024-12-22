@@ -132,13 +132,6 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 
 |言語|業務経験|
 |---|---|
-|<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />|6年|
-|<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />|6年|
-|<img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />|3年|
-|<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />|3年|
-|<img alt="Elixir" src="https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=Elixir&logoColor=white" />|1年|
-|<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />|1年|
-|<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />|1年|
 
 </div>
 
@@ -146,109 +139,27 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 
 |フレームワーク|業務経験|
 |---|---|
-|<img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />|6年|
-|<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />|3年|
-|<img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />|3年|
-|<img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white" />|3年|
-|<img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />|1年|
-|<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />|1年|
-|<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />|3年|
-|<img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white" />|1年|
-|<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />|2年|
-|<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />|6年|
+
 
 </div>
 </div>
 
 ## スキル
 
-- TypeScript, React, Vue.js でのフロントエンド開発・設計
-- レガシーコードからモダンなフロントエンドへのリファクタリング
-- フロントエンド開発基盤の整備（テスト環境、パフォーマンス計測 etc.）
-- ユニットテストを基本とした保守性と再利用性を意識したコーディング
-- Railsライクフレームワークを使ったサーバーサイド開発
-- 勉強会、社内学習のコミュニティ形成
-- アジャイル、スクラム開発の進行
-- 未経験技術への迅速なキャッチアップ、アウトプット
+
 
 ## 意欲・興味
 
-- ユーザーファーストなプロダクトを作っていく過程が好きです。言われたとおりにただ作るのではなく、機能要件に対しても一緒に考えていけるチームだとより良いです
-- 開発に携わったサービスが、身近な人の生活をより良くしていく過程を肌で感じられる時、パフォーマンスが出せると感じています
-- 少人数チームで小さく素早くリリースし、フィードバックを受けながら改善のサイクルを回していくアジャイルな開発スタイルを好みます
-- どうしたら使いやすいデザインになるか、ユーザーの視点に立って考えることが好きです
-- ペアプロ・モブプロを積極的に取り入れ、チームで暗黙知の共有や、技術の継承を行っていきたいと思っています
-- 新しい挑戦（技術的なもの・制度的なもの）に積極的に取り組める環境が好きです
+
 
 ## 就業条件
 
-- 勤務形態: フルリモートワーク（月数回程度の出社は可）
+- 雇用形態: 正社員と契約社員
+- ビザ: 技術・人文知識・国際業務のビザが必要です。
 
-
-## 業務外活動
-
-### OSS
-
-<GitHubRepositories />
-
-### アウトプット
-
-#### Zenn
-[https://zenn.dev/ryo_kawamata](https://zenn.dev/ryo_kawamata)
-
-<ZennArticles />
-
-#### Qiita
-[https://qiita.com/ryo2132](https://qiita.com/ryo2132)
-
-<QiitaArticles />
-
-#### note
-[https://note.com/ryo_kawamata](https://note.com/ryo_kawamata)
-
-<NoteArticles />
-
-#### SpeakerDeck
-[https://speakerdeck.com/kawamataryo](https://speakerdeck.com/kawamataryo)
-
-<SpeakerDeckSlides />
-
-### 副業
-
-- **鍼灸院専門の Web デザイン事業（2017/02〜現在）**
-  - 担当：営業・企画・デザイン・実装
-  - 使用技術：PHP, JavaScript, WordPress, Nuxt.js, GraphCMS
-  - 契約交渉から実装・保守管理
-- **ソフトウェア受託開発（2019/05〜2019/12）**
-  - 担当：実装
-  - 使用技術：JavaScript, TypeScript, Vue.js, React, Firebase
-  - 元同僚が起業した会社の受託開発業務のサポート。フロントエンドの実装を主に行う
-- **ovice株式会社（2023/06〜2023/12）**
-  - 担当：実装
-  - 使用技術：TypeScript, React
-  - BugFix, 新機能のフロントエンド実装を担当
-
-### 勉強会の主催
-
-- **茨城県水戸市にて勉強会を企画・運営**
-  - Ibaraki.dev（開催回数 50 回、 メンバー 102 人）
-  - [https://mito-web-engineer.connpass.com/](https://mito-web-engineer.connpass.com/)
-- **社内・社外勉強会の企画・運営**
-  - もくテク powerd by Misoca
-  - フロントエンド輪読回（Vue Composition API ドキュメント , JavaScript Promise の本輪読回、 Jest 公式ドキュメント、 TypeScript 公式ドキュメント）
-  - Go ではじめるインタプリタ輪読回
 
 
 ### その他
 
-- **Podcast**
-  - [しがないラジオ sp.91【ゲスト: KawamataRyo】楽しい元消防士がエンジニア転職を決意した理由、そして挫折と復活](https://shiganai.org/ep/sp91-KawamataRyo)
 - **YouTube**
-  - [消防士からエンジニアへ（ゲスト：川俣さん） #エンジニアと人生 Vol.28](https://www.youtube.com/watch?v=bP8hTmGixuI&t=1587s)
-- **JobPics**
-  - [消防士からエンジニアへ、究極の「未経験転職」3つのポイント | JobPicks](https://job.newspicks.com/articles/849)
-- **type-challenges のメンバー（日本語ローカライズを担当）**
-  - [type-challenges](https://github.com/type-challenges/type-challenges)
-- Raycast 拡張機能の開発
-  - [TinyPNG](https://www.raycast.com/kawamataryo/tinypng)
-  - [esa Search](https://www.raycast.com/kawamataryo/esa-search)
+  - [ kaki - YouTube](https://www.youtube.com/@iamhaokaki)
