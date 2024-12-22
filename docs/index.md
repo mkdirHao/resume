@@ -10,20 +10,23 @@ layout: doc
 
 |key|value|
 |---|---|
-|氏名|川俣 涼（Kawamata Ryo）|
-|生年月日|1989/04/25|
-|居住地|茨城県|
-|最終学歴|立命館大学経営学部卒|
+|氏名|郝 佳毅（Hao Kaki）|
+|生年月日|1997/05/16|
+|国籍|中国|
+|居住地|东京都|
+|最終学歴|天津商業大学情報工学部|
+|専攻|コンピューターサイエンスとテクノロジー|
 
 
 ## 各種アカウント
 
 <p style="display: flex; gap: 8px; flex-wrap: wrap;">
-  <a href="https://github.com/kawamataryo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/kawamataryo-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-  <a href="https://twitter.com/KawamataRyo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@KawamataRyo-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://github.com/mkdirhao" target="_blank">GitHub</a>
+  <a href="https://kaki.host/" target="_blank">kakiのlinktree</a>
+  <!-- <a href="https://twitter.com/KawamataRyo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@KawamataRyo-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="https://qiita.com/ryo2132" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/ryo2132-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
   <a href="https://zenn.dev/ryo_kawamata" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/ryo_kawamata-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
-  <a href="https://speakerdeck.com/kawamataryo" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/kawamataryo-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a>
+  <a href="https://speakerdeck.com/kawamataryo" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/kawamataryo-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a> -->
 </p>
 
 ## 職務経歴
